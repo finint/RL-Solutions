@@ -4,8 +4,8 @@
 
 &emsp;&emsp;[Reinforcement Learning -- An Introduction ](http://incompleteideas.net/book/the-book-2nd.html)是强化学习思想的经典书籍，非常适合搭建理论基础。 原书英文版第二版于2018年出版，可以从官方网站下载书籍的英文版PDF [下载链接](http://incompleteideas.net/book/RLbook2020.pdf)。对于众多中文读者来说，中文官方翻译版这次来得非常及时，[《强化学习》 中文版](https://item.jd.com/12696004.html) 于2019年9月即首次印刷，由电子工业出版社出版。
 
-<center class="half">
-    <img src="导论/img/rl-eng.jpg" width="260"/> &emsp;&emsp; <img src="导论/img/rl-chn.jpg" width="286"/>
+<center>
+    <img src="导论/img/rl-eng.jpg" width="260"/>   <img src="导论/img/rl-chn.jpg" width="286"/>
 </center>
 
 &emsp;&emsp;本项目记录了我们对《强化学习》的学习笔记，通过对原书习题的解答和代码复现来增加对强化学习的基础理论的认识，梳理强化学习的框架。本项目来源于强化学习爱好者的整理和贡献，包含《强化学习》的习题解答和代码，**仅**供自学者学习和交流，不可直接用于课程作业，何况本项目的解答可能不完全都是正确的。当然如果你发现错误，欢迎提出issue进行指正交流。在学习阅读本项目之前，你需要具有一定的机器学习和深度学习的理论基础，具有Python编程基础。

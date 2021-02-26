@@ -4,9 +4,7 @@
 
 &emsp;&emsp;[Reinforcement Learning -- An Introduction ](http://incompleteideas.net/book/the-book-2nd.html)是强化学习思想的经典书籍，非常适合搭建理论基础。 原书英文版第二版于2018年出版，可以从官方网站下载书籍的英文版PDF [下载链接](http://incompleteideas.net/book/RLbook2020.pdf)。对于众多中文读者来说，中文官方翻译版这次来得非常及时，[《强化学习》 中文版](https://item.jd.com/12696004.html) 于2019年9月即首次印刷，由电子工业出版社出版。
 
-<center>
-    <img src="导论/img/rl-eng.jpg" width="260"/>   <img src="导论/img/rl-chn.jpg" width="286"/>
-</center>
+![强化学习](导论/img/rl-chn.jpg)
 
 &emsp;&emsp;本项目记录了我们对《强化学习》的学习笔记，通过对原书习题的解答和代码复现来增加对强化学习的基础理论的认识，梳理强化学习的框架。本项目来源于强化学习爱好者的整理和贡献，包含《强化学习》的习题解答和代码，**仅**供自学者学习和交流，不可直接用于课程作业，何况本项目的解答可能不完全都是正确的。当然如果你发现错误，欢迎提出issue进行指正交流。在学习阅读本项目之前，你需要具有一定的机器学习和深度学习的理论基础，具有Python编程基础。
 
@@ -50,9 +48,9 @@
 | ------------ | ------------ | ------------ | ------------ |
 |[第一章 导论](导论/README.md)|[井字棋小游戏](导论/代码案例.md)|@daweicheng|@titicaca
 |[第二章 多臂赌博机](多臂赌博机/README.md)||@daweicheng|@kimliu0803 @xiangsheng1325
-|[第三章 有限马尔科夫决策过程](有限马尔科夫决策过程/README.md)||@gongyong|@gongyong
-|[第四章 动态规划](动态规划/README.md)||@gongyong|@thao
-|[第五章 蒙特卡洛方法](蒙特卡洛方法/README.md)||@gongyong|@hwisdom
+|[第三章 有限马尔科夫决策过程](有限马尔科夫决策过程/README.md)||@David-Tangk|@gongyong
+|[第四章 动态规划](动态规划/README.md)||@David-Tangk|@thao
+|[第五章 蒙特卡洛方法](蒙特卡洛方法/README.md)||@David-Tangk|@VPCU
 |[第六章 时序差分学习](时序差分学习/README.md)||@Artiprocher|@Artiprocher @ZP1481616577 
 |[第七章 n步自举法](n步自举法/README.md)||@moming|@moming 
 |[第八章 基于表格方法的规划和学习](基于表格方法的规划和学习/README.md)|||

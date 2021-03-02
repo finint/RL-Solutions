@@ -54,12 +54,14 @@
 1. [表格型深入研究与前沿技术](表格型深入研究与前沿技术/README.md)
 
 
->持续更新中，欢迎贡献便于理解的优秀代码示例，推荐使用Python代码和Jupyter Notebook提交，并附上说明。请将习题解答或者代码案例提交pull request至pending文件夹下面，每个习题或者案例单独文件(.md,.py 或者 .ipynb) 进行提交，提交后的代码我们将会尽快review并更新至相应的章节:
-> + 如果贡献习题解答，命名方式为 ex(chapter)-(execise).md, 例如：第二章第一题ex02-01.md
-> + 如果贡献案例代码，命名方式为 case(chapter)-(casename).md,例如：case01-井字棋动态规划案例.md
+
+## 参与贡献
+持续更新中，欢迎贡献便于理解的优秀代码示例，推荐使用Python代码和Jupyter Notebook提交，并附上说明。请将习题解答或者代码案例提交pull request至pending文件夹下面，每个习题或者案例单独文件(.md,.py 或者 .ipynb) 进行提交，提交后的代码我们将会尽快review并更新至相应的章节:
+ + 如果贡献习题解答，命名方式为 ex(chapter)-(execise).md, 例如：第二章第一题ex02-01.md
+ + 如果贡献案例代码，命名方式为 case(chapter)-(casename).md,例如：case01-井字棋动态规划案例.md
 
 
-致谢
+## 致谢
 --------------------
 我们分为两个类别的贡献者。
  - 负责人也就是对应的该章节习题解答和案例的维护者。

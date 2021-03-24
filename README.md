@@ -51,7 +51,7 @@
 |[第一章 导论](导论/README.md)|[井字棋小游戏](导论/代码案例.md)|@daweicheng|@titicaca
 |[第二章 多臂赌博机](多臂赌博机/README.md)||@daweicheng|@CharlieSCC @xiangsheng1325
 |[第三章 有限马尔科夫决策过程](有限马尔科夫决策过程/README.md)||@David-Tangk|@David-Tangk
-|[第四章 动态规划](动态规划/README.md)||@David-Tangk|@upcorz
+|[第四章 动态规划](动态规划/README.md)||@David-Tangk|@Ti-Ho
 |[第五章 蒙特卡洛方法](蒙特卡洛方法/README.md)||@David-Tangk|@VPCU
 |[第六章 时序差分学习](时序差分学习/README.md)||@Artiprocher|@Artiprocher @ZP1481616577 
 |[第七章 n步自举法](n步自举法/README.md)||@moming|@moming 
